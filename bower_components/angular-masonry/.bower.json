@@ -34,7 +34,6 @@
     "commit": "3339a89ce8a496785b8a0e8815e7994b355d70f6"
   },
   "_source": "git://github.com/passy/angular-masonry.git",
-  "_target": "~0.7.0",
-  "_originalSource": "angular-masonry",
-  "_direct": true
+  "_target": "0.7.0",
+  "_originalSource": "angular-masonry"
 }

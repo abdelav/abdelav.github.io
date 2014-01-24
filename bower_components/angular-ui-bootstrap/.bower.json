@@ -9,7 +9,6 @@
     "commit": "9dbc2390f2d4521589093393e87ef6ac8baa7e2a"
   },
   "_source": "git://github.com/angular-ui/bootstrap.git",
-  "_target": "~0.7.0",
-  "_originalSource": "angular-ui-bootstrap",
-  "_direct": true
+  "_target": "0.7.0",
+  "_originalSource": "angular-ui-bootstrap"
 }

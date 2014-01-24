@@ -9,6 +9,5 @@
   },
   "_source": "git://github.com/placemarker/jQuery-MD5.git",
   "_target": "*",
-  "_originalSource": "jquery-md5",
-  "_direct": true
+  "_originalSource": "jquery-md5"
 }
